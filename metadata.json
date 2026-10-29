@@ -1,0 +1,6 @@
+{
+  "name": "پتو متو | فروشگاه مدرن کیف و چمدان",
+  "description": "فروشگاه آنلاین تخصصی چمدان مسافرتی، کوله‌پشتی لپ‌تاپ، کیف‌های چرم و اکسسوری سفر با استانداردهای بین‌المللی و گارانتی اصالت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
