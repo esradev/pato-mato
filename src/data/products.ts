@@ -1,3 +1,8 @@
+import heroImage from '../assets/images/hero_luxury_luggage_1791111241993.jpg';
+import suitcaseImage from '../assets/images/product_cabin_suitcase_1791111256786.jpg';
+import backpackImage from '../assets/images/product_urban_backpack_1791111269777.jpg';
+import toteImage from '../assets/images/product_leather_tote_1791111281630.jpg';
+
 export interface ProductColor {
   id: string;
   name: string;
@@ -48,10 +53,10 @@ export interface Category {
 
 // Local generated image assets
 export const ASSETS = {
-  hero: '/src/assets/images/hero_luxury_luggage_1791111241993.jpg',
-  suitcase: '/src/assets/images/product_cabin_suitcase_1791111256786.jpg',
-  backpack: '/src/assets/images/product_urban_backpack_1791111269777.jpg',
-  tote: '/src/assets/images/product_leather_tote_1791111281630.jpg',
+  hero: heroImage,
+  suitcase: suitcaseImage,
+  backpack: backpackImage,
+  tote: toteImage,
 };
 
 export const CATEGORIES: Category[] = [
